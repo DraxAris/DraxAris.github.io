@@ -101,7 +101,9 @@
       </div>
     </div>
   </section>
-
+<?php
+  echo "hi there";
+?>
   <section id="contact">
     <div class="container">
       <div class="row">
